@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatorSikora", "calculatorSikora\calculatorSikora.csproj", "{CD605EA1-D377-420B-A1A3-07551F8BBD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD605EA1-D377-420B-A1A3-07551F8BBD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD605EA1-D377-420B-A1A3-07551F8BBD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD605EA1-D377-420B-A1A3-07551F8BBD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD605EA1-D377-420B-A1A3-07551F8BBD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0BC6EB-A21B-4CF8-A697-E123067FD118}
+	EndGlobalSection
+EndGlobal

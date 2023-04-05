@@ -1,0 +1,11 @@
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\bin\Debug\calculatorSikora.exe.config
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\bin\Debug\calculatorSikora.exe
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\bin\Debug\calculatorSikora.pdb
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.csproj.AssemblyReference.cache
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.Form1.resources
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.Properties.Resources.resources
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.csproj.GenerateResource.cache
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.exe
+C:\Users\Gaming\source\repos\calculatorSikora\calculatorSikora\obj\Debug\calculatorSikora.pdb
